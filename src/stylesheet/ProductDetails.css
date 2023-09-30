@@ -1,0 +1,25 @@
+/* ProductDetails.css */
+
+.product-details {
+    padding: 10px;
+  }
+  
+  .product-details-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .product-details img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .product-details h3 {
+    margin-top: 10px;
+  }
+  
+  /* Add more styles as needed */
+  
